@@ -10,5 +10,4 @@ inginginginging
 git is a wonderful tools.
 text again.
 add a text
-add a text 2.
-add a wrong text3.
+add a text 2. 
